@@ -1,0 +1,10 @@
+{
+    "name": "Webkadabra/yii-rights",
+    "description": "Yii Rights modules by Christoffer Niska",
+	"authors":[
+		{
+			"name":"Christoffer Niska",
+			"email":"cniska@live.com"
+		}
+	]
+}
