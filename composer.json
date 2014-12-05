@@ -1,9 +1,9 @@
 {
     "name": "Webkadabra/yii-rights",
-	"type": "yii-extension",
-	"require": {
+    "type": "yii-extension",
+    "require": {
         "composer/installers": "~1.0"
-    }
+    },
     "description": "Yii Rights modules by Christoffer Niska",
 	"authors":[
 		{
