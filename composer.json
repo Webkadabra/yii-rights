@@ -1,5 +1,5 @@
 {
-    "name": "Webkadabra/yii-rights",
+    "name": "webkadabra/yii-rights",
     "type": "yii-extension",
     "require": {
         "composer/installers": "~1.0"
